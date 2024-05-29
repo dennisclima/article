@@ -1,0 +1,14 @@
+{
+  "name": "article",
+  "version": "1.0.0",
+  "description": "My Article API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "DCL",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.0"
+  }
+}
